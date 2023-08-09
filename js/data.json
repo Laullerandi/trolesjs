@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Buzo Troles",
+        "price": 8500,
+        "img": "../img/Catalogo-1.png",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Jogging Troles",
+        "price": 7000,
+        "img": "../img/Catalogo-5.jpg",
+        "quantity": 1
+    },
+    { 
+        "id": 3,
+        "name": "Gorrito Troles",
+        "price": 2500,
+        "img": "../img/Catalogo-6.png",
+        "quantity": 1
+    },
+    { 
+        "id": 4,
+        "name": "Remera Troles",
+        "price": 5000,
+        "img": "../img/Catalogo-8.png",
+        "quantity": 1
+    },
+    { 
+        "id": 5,
+        "name": "Bermuda Troles",
+        "price": 5000,
+        "img": "../img/Catalogo-9.png",
+        "quantity": 1
+    },
+    { 
+        "id": 6,
+        "name": "Medias Troles",
+        "price": 1000,
+        "img": "../img/Catalogo-13.png",
+        "quantity": 1
+    }
+]
